@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a senior engineer at [Verdigris](https://verdigris.co) helping to build products that help data centers plan electricity capacity better and use energy more efficiently.
+
 <!--
 **AndrewJo/AndrewJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
